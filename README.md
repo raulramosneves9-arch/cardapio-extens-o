@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍔 Cardápio Digital - Vue 3 + Vite
 
 Aplicação web desenvolvida com Vue 3 para gerenciamento de cardápio digital.  
@@ -209,3 +210,4 @@ localStorage.setItem(...)
 📍 list.vue
 
 grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+=======
