@@ -1,0 +1,23 @@
+[
+    {
+        "id": "sug-1",
+        "name": "X-Burger Especial",
+        "price": 24.9,
+        "category": "Lanche",
+        "available": true
+    },
+    {
+        "id": "sug-2",
+        "name": "Refrigerante 350ml",
+        "price": 6.5,
+        "category": "Bebida",
+        "available": true
+    },
+    {
+        "id": "sug-3",
+        "name": "Brownie de Chocolate",
+        "price": 12.0,
+        "category": "Sobremesa",
+        "available": true
+    }
+]
