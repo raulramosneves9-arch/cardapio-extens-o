@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "vue-cardapio-digital",
-=======
-  "name": "cardapio",
->>>>>>> 7e9b31cc4695ae08defb479fd2b9e9d0c35fb905
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -13,7 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.5.31"
+    "axios": "^1.15.0",
+    "vue": "^3.5.31",
+    "vue-router": "^4.6.4",
+    "vuex": "^4.1.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^6.0.5",
